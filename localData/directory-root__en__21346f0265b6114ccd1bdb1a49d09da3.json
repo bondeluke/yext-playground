@@ -1,0 +1,792 @@
+{
+	"__": {
+		"entityPageSet": {},
+		"name": "root"
+	},
+	"_site": {
+		"c_bannerText": "Connect with our Virtual Advice Team. We have a team of professionals just a phone call away.",
+		"c_bannerURL": "https://www.thrivent.com/about-us/working-with-thrivent/thrivent-financial-guidance-team.html",
+		"c_cFPCopyRightText": "Certified Financial Planner Board of Standards, Inc. (CFP Board) owns the CFP® certification mark, the CERTIFIED FINANCIAL PLANNER™ certification mark, and the CFP® certification mark (with plaque design) logo in the United States, which it authorizes use of by individuals who successfully complete CFP Board's initial and ongoing certification requirements.",
+		"c_cFPLogic": true,
+		"c_companyPhoneNumber": {
+			"label": "T: 800-847-4836",
+			"link": "+18008474836",
+			"linkType": "PHONE"
+		},
+		"c_copyrightMessage": "Certified Financial Planner Board of Standards, Inc. (CFP Board) owns the CFP® certification mark, the CERTIFIED FINANCIAL PLANNER™ certification mark, and the CFP® certification mark (with plaque design) logo in the United States, which it authorizes use of by individuals who successfully complete CFP Board's initial and ongoing certification requirements.",
+		"c_copyrightText": {
+			"json": {
+				"root": {
+					"children": [
+						{
+							"children": [
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": "© 2023 Thrivent. All rights reserved. ",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"children": [
+										{
+											"detail": 0,
+											"format": 0,
+											"mode": "normal",
+											"style": "",
+											"text": "Terms of Use.",
+											"type": "text",
+											"version": 1
+										},
+										{
+											"type": "linebreak",
+											"version": 1
+										},
+										{
+											"type": "linebreak",
+											"version": 1
+										}
+									],
+									"direction": "ltr",
+									"format": "",
+									"indent": 0,
+									"rel": null,
+									"target": null,
+									"type": "link",
+									"url": "https://www.thrivent.com/privacy-and-security/terms-of-use.html",
+									"version": 1
+								}
+							],
+							"direction": "ltr",
+							"format": "",
+							"indent": 0,
+							"type": "paragraph",
+							"version": 1
+						},
+						{
+							"children": [
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": "Thrivent is the marketing name for Thrivent Financial for Lutherans. Insurance products issued by Thrivent. Not available in all states. Securities and investment advisory services offered through Thrivent Investment Management Inc., a registered investment adviser, member ",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"children": [
+										{
+											"detail": 0,
+											"format": 0,
+											"mode": "normal",
+											"style": "",
+											"text": "FINRA",
+											"type": "text",
+											"version": 1
+										}
+									],
+									"direction": "ltr",
+									"format": "",
+									"indent": 0,
+									"rel": null,
+									"target": null,
+									"type": "link",
+									"url": "https://www.finra.org/#/",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": " and ",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"children": [
+										{
+											"detail": 0,
+											"format": 0,
+											"mode": "normal",
+											"style": "",
+											"text": "SIPC",
+											"type": "text",
+											"version": 1
+										}
+									],
+									"direction": "ltr",
+									"format": "",
+									"indent": 0,
+									"rel": null,
+									"target": null,
+									"type": "link",
+									"url": "https://www.sipc.org/",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": ", and a subsidiary of Thrivent. Licensed agent/producer of Thrivent. Registered representative of Thrivent Investment Management, Inc. ",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"children": [
+										{
+											"detail": 0,
+											"format": 0,
+											"mode": "normal",
+											"style": "",
+											"text": "Thrivent.com/disclosures",
+											"type": "text",
+											"version": 1
+										}
+									],
+									"direction": "ltr",
+									"format": "",
+									"indent": 0,
+									"rel": null,
+									"target": null,
+									"type": "link",
+									"url": "https://www.thrivent.com/privacy-and-security/disclosures.html",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": ".",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"type": "linebreak",
+									"version": 1
+								},
+								{
+									"type": "linebreak",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": "Insurance products, securities and investment advisory services are provided by appropriately appointed and licensed financial advisors and professionals. Only individuals who are financial advisors are credentialed to provide investment advisory services. Visit ",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"children": [
+										{
+											"detail": 0,
+											"format": 0,
+											"mode": "normal",
+											"style": "",
+											"text": "Thrivent.com",
+											"type": "text",
+											"version": 1
+										}
+									],
+									"direction": "ltr",
+									"format": "",
+									"indent": 0,
+									"rel": null,
+									"target": null,
+									"type": "link",
+									"url": "http://thrivent.com/",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": " or ",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"children": [
+										{
+											"detail": 0,
+											"format": 0,
+											"mode": "normal",
+											"style": "",
+											"text": "FINRA’s Broker Check",
+											"type": "text",
+											"version": 1
+										}
+									],
+									"direction": "ltr",
+									"format": "",
+									"indent": 0,
+									"rel": null,
+									"target": null,
+									"type": "link",
+									"url": "https://brokercheck.finra.org/",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": " for more information about our financial advisors.",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"type": "linebreak",
+									"version": 1
+								},
+								{
+									"type": "linebreak",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": "Thrivent provides advice and guidance through its Financial Planning Framework that generally includes a review and analysis of a client’s financial situation. A client may choose to further their planning engagement with Thrivent through its Dedicated Planning Services (an investment advisory service) that results in written recommendations for a fee.",
+									"type": "text",
+									"version": 1
+								}
+							],
+							"direction": "ltr",
+							"format": "",
+							"indent": 0,
+							"type": "paragraph",
+							"version": 1
+						}
+					],
+					"direction": "ltr",
+					"format": "",
+					"indent": 0,
+					"type": "root",
+					"version": 1
+				}
+			}
+		},
+		"c_defaultResultCard": {
+			"cTA1": {
+				"label": "About Us",
+				"link": "https://www.thrivent.com/advice/virtual-advice-team",
+				"linkType": "URL"
+			},
+			"cTA2": {
+				"label": "Get In Touch",
+				"link": "https://www.thrivent.com/offers/online-appointment",
+				"linkType": "URL"
+			},
+			"name": "Virtual Advice Team",
+			"phone": {
+				"label": "(888) 834-7434",
+				"link": "+18888347434",
+				"linkType": "PHONE"
+			},
+			"photo": {
+				"alternateText": "thrivent profile photo",
+				"height": 372,
+				"url": "https://a.mktgcdn.com/p/owIRiQpJtKcODTweyK5gB2lUejrhjF32f9hcnyHpnCk/290x372.png",
+				"width": 290
+			},
+			"title": "Team Practice"
+		},
+		"c_facebook": "https://www.facebook.com/thrivent/",
+		"c_footerColumns": [
+			{
+				"footerLink": [
+					{
+						"label": "About us",
+						"link": "https://www.thrivent.com/about-us/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Insights \u0026 guidance",
+						"link": "https://www.thrivent.com/insights/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Log in",
+						"link": "https://myservice.thrivent.com/portal/mythrivent",
+						"linkType": "URL"
+					},
+					{
+						"label": "Find an advisor",
+						"link": "https://local.thrivent.com/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Careers",
+						"link": "https://www.thrivent.com/careers",
+						"linkType": "URL"
+					},
+					{
+						"label": "Contact Us",
+						"link": "https://www.thrivent.com/about-us/support",
+						"linkType": "URL"
+					},
+					{
+						"label": "Claims",
+						"link": "https://www.thrivent.com/claims/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Thrivent merchandise",
+						"link": "https://www.mybrandmall.com/thrivent/",
+						"linkType": "URL"
+					}
+				],
+				"title": "Navigation"
+			},
+			{
+				"footerLink": [
+					{
+						"label": "Newsroom",
+						"link": "https://www.thrivent.com/newsroom/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Financial information",
+						"link": "https://www.thrivent.com/governance#financial-info",
+						"linkType": "URL"
+					},
+					{
+						"label": "Thrivent Magazine",
+						"link": "https://www.thrivent.com/insights/magazine/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Mobile app",
+						"link": "https://www.thrivent.com/mobile-app",
+						"linkType": "URL"
+					}
+				],
+				"title": "Quick links"
+			},
+			{
+				"footerLink": [
+					{
+						"label": "Forms",
+						"link": "https://www.thrivent.com/forms/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Governance",
+						"link": "https://www.thrivent.com/governance",
+						"linkType": "URL"
+					},
+					{
+						"label": "PRIVACY \u0026 SECURITY",
+						"link": "https://www.thrivent.com/privacy-and-security/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Tax resource center",
+						"link": "https://www.thrivent.com/tax-resource-center/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Terms of use",
+						"link": "https://www.thrivent.com/privacy-and-security/terms-of-use",
+						"linkType": "URL"
+					}
+				],
+				"title": "Legal"
+			},
+			{
+				"footerText": "4321 N. Ballard Rd.\nAppleton, WI\n54919-0001 USA",
+				"title": "Operations Center"
+			},
+			{
+				"footerText": "600 Portland Avenue S.,\nSuite 100\nMinneapolis, MN\n55415-4402 USA",
+				"title": "Corporate Center"
+			}
+		],
+		"c_footerPhoto": {
+			"clickthroughUrl": "https://brokercheck.finra.org/",
+			"description": "Check the background of our professionals on FINRA’s BrokerCheck.",
+			"image": {
+				"alternateText": "BrokerCheck Logo",
+				"height": 124,
+				"url": "https://a.mktgcdn.com/p/XgFBGdcl05ygY2UgnvTB8XKAV3dRWFGRUM7i20_nWXY/418x124.png",
+				"width": 418
+			}
+		},
+		"c_header": {
+			"links": [
+				{
+					"label": "Log In",
+					"link": "https://servicing.apps.thrivent.com/",
+					"linkType": "URL"
+				}
+			],
+			"logo": {
+				"alternateText": "Thrivent Logo",
+				"height": 1338,
+				"url": "https://a.mktgcdn.com/p/HmPg6JAKMRRCOK7cj5pdLaLVdRxmnJz40c4Vm05zRVE/3000x1338.png",
+				"width": 3000
+			}
+		},
+		"c_instagram": "https://www.instagram.com/thrivent/",
+		"c_linkedIn": "https://www.linkedin.com/company/6233",
+		"c_placeholderPhoto": {
+			"height": 372,
+			"url": "https://a.mktgcdn.com/p/owIRiQpJtKcODTweyK5gB2lUejrhjF32f9hcnyHpnCk/290x372.png",
+			"width": 290
+		},
+		"c_searchExperienceAPIKey": "4b2e8888389009aeb3af17a231cb043b",
+		"c_searchPage": [
+			{}
+		],
+		"c_twitter": "https://www.twitter.com/thrivent/",
+		"id": "site-entity",
+		"logo": {
+			"clickthroughUrl": "https://www.thrivent.com/",
+			"image": {
+				"alternateText": "Thrivent Logo",
+				"height": 3000,
+				"url": "https://a.mktgcdn.com/p/WZ63RQBuNZishiZJrqMOdS8jG3eYIT7f_Js-jLMgxR0/3000x3000.png",
+				"width": 3000
+			}
+		},
+		"meta": {
+			"entityType": {
+				"id": "ce_site",
+				"uid": 142256
+			},
+			"locale": "en"
+		},
+		"name": "Site Entity",
+		"uid": 1029196019
+	},
+	"businessId": 3151815,
+	"c_breadcrumb": "All Advisors",
+	"c_directoryHeroDescription": "3679 Thrivent Financial Professionals in the United States",
+	"c_meta": {
+		"description": "Browse all Thrivent Advisors in the United States to find retirement and investment planning options for Christians",
+		"title": "All Thrivent Advisors in the United States | Retirement and investment plannning for Christians"
+	},
+	"dm_baseEntityCount": "3679",
+	"dm_directoryChildren": [
+		{
+			"c_addressRegionDisplayName": "Missouri",
+			"dm_baseEntityCount": "128",
+			"name": "MO",
+			"slug": "directory/mo"
+		},
+		{
+			"c_addressRegionDisplayName": "Wisconsin",
+			"dm_baseEntityCount": "429",
+			"name": "WI",
+			"slug": "directory/wi"
+		},
+		{
+			"c_addressRegionDisplayName": "Ohio",
+			"dm_baseEntityCount": "149",
+			"name": "OH",
+			"slug": "directory/oh"
+		},
+		{
+			"c_addressRegionDisplayName": "South Carolina",
+			"dm_baseEntityCount": "26",
+			"name": "SC",
+			"slug": "directory/sc"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "204",
+			"name": "CA",
+			"slug": "directory/ca"
+		},
+		{
+			"c_addressRegionDisplayName": "Pennsylvania",
+			"dm_baseEntityCount": "149",
+			"name": "PA",
+			"slug": "directory/pa"
+		},
+		{
+			"c_addressRegionDisplayName": "Illinois",
+			"dm_baseEntityCount": "238",
+			"name": "IL",
+			"slug": "directory/il"
+		},
+		{
+			"c_addressRegionDisplayName": "Washington",
+			"dm_baseEntityCount": "118",
+			"name": "WA",
+			"slug": "directory/wa"
+		},
+		{
+			"c_addressRegionDisplayName": "North Dakota",
+			"dm_baseEntityCount": "92",
+			"name": "ND",
+			"slug": "directory/nd"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "141",
+			"name": "MI",
+			"slug": "directory/mi"
+		},
+		{
+			"c_addressRegionDisplayName": "Florida",
+			"dm_baseEntityCount": "112",
+			"name": "FL",
+			"slug": "directory/fl"
+		},
+		{
+			"c_addressRegionDisplayName": "Minnesota",
+			"dm_baseEntityCount": "487",
+			"name": "MN",
+			"slug": "directory/mn"
+		},
+		{
+			"c_addressRegionDisplayName": "Iowa",
+			"dm_baseEntityCount": "100",
+			"name": "IA",
+			"slug": "directory/ia"
+		},
+		{
+			"c_addressRegionDisplayName": "Colorado",
+			"dm_baseEntityCount": "117",
+			"name": "CO",
+			"slug": "directory/co"
+		},
+		{
+			"c_addressRegionDisplayName": "Maryland",
+			"dm_baseEntityCount": "30",
+			"name": "MD",
+			"slug": "directory/md"
+		},
+		{
+			"c_addressRegionDisplayName": "Louisiana",
+			"dm_baseEntityCount": "9",
+			"name": "LA",
+			"slug": "directory/la"
+		},
+		{
+			"c_addressRegionDisplayName": "Texas",
+			"dm_baseEntityCount": "169",
+			"name": "TX",
+			"slug": "directory/tx"
+		},
+		{
+			"c_addressRegionDisplayName": "Nebraska",
+			"dm_baseEntityCount": "95",
+			"name": "NE",
+			"slug": "directory/ne"
+		},
+		{
+			"c_addressRegionDisplayName": "South Dakota",
+			"dm_baseEntityCount": "65",
+			"name": "SD",
+			"slug": "directory/sd"
+		},
+		{
+			"c_addressRegionDisplayName": "New Jersey",
+			"dm_baseEntityCount": "43",
+			"name": "NJ",
+			"slug": "directory/nj"
+		},
+		{
+			"c_addressRegionDisplayName": "Nevada",
+			"dm_baseEntityCount": "25",
+			"name": "NV",
+			"slug": "directory/nv"
+		},
+		{
+			"c_addressRegionDisplayName": "Arizona",
+			"dm_baseEntityCount": "69",
+			"name": "AZ",
+			"slug": "directory/az"
+		},
+		{
+			"c_addressRegionDisplayName": "Georgia",
+			"dm_baseEntityCount": "55",
+			"name": "GA",
+			"slug": "directory/ga"
+		},
+		{
+			"c_addressRegionDisplayName": "North Carolina",
+			"dm_baseEntityCount": "85",
+			"name": "NC",
+			"slug": "directory/nc"
+		},
+		{
+			"c_addressRegionDisplayName": "Hawaii",
+			"dm_baseEntityCount": "2",
+			"name": "HI",
+			"slug": "directory/hi"
+		},
+		{
+			"c_addressRegionDisplayName": "Indiana",
+			"dm_baseEntityCount": "103",
+			"name": "IN",
+			"slug": "directory/in"
+		},
+		{
+			"c_addressRegionDisplayName": "Oregon",
+			"dm_baseEntityCount": "36",
+			"name": "OR",
+			"slug": "directory/or"
+		},
+		{
+			"c_addressRegionDisplayName": "Idaho",
+			"dm_baseEntityCount": "42",
+			"name": "ID",
+			"slug": "directory/id"
+		},
+		{
+			"c_addressRegionDisplayName": "Kansas",
+			"dm_baseEntityCount": "56",
+			"name": "KS",
+			"slug": "directory/ks"
+		},
+		{
+			"c_addressRegionDisplayName": "Massachusetts",
+			"dm_baseEntityCount": "20",
+			"name": "MA",
+			"slug": "directory/ma"
+		},
+		{
+			"c_addressRegionDisplayName": "Arkansas",
+			"dm_baseEntityCount": "21",
+			"name": "AR",
+			"slug": "directory/ar"
+		},
+		{
+			"c_addressRegionDisplayName": "Alaska",
+			"dm_baseEntityCount": "2",
+			"name": "AK",
+			"slug": "directory/ak"
+		},
+		{
+			"c_addressRegionDisplayName": "Virginia",
+			"dm_baseEntityCount": "36",
+			"name": "VA",
+			"slug": "directory/va"
+		},
+		{
+			"c_addressRegionDisplayName": "New York",
+			"dm_baseEntityCount": "37",
+			"name": "NY",
+			"slug": "directory/ny"
+		},
+		{
+			"c_addressRegionDisplayName": "New Hampshire",
+			"dm_baseEntityCount": "5",
+			"name": "NH",
+			"slug": "directory/nh"
+		},
+		{
+			"c_addressRegionDisplayName": "Montana",
+			"dm_baseEntityCount": "43",
+			"name": "MT",
+			"slug": "directory/mt"
+		},
+		{
+			"c_addressRegionDisplayName": "Tennessee",
+			"dm_baseEntityCount": "47",
+			"name": "TN",
+			"slug": "directory/tn"
+		},
+		{
+			"c_addressRegionDisplayName": "Oklahoma",
+			"dm_baseEntityCount": "16",
+			"name": "OK",
+			"slug": "directory/ok"
+		},
+		{
+			"c_addressRegionDisplayName": "Kentucky",
+			"dm_baseEntityCount": "20",
+			"name": "KY",
+			"slug": "directory/ky"
+		},
+		{
+			"c_addressRegionDisplayName": "Connecticut",
+			"dm_baseEntityCount": "14",
+			"name": "CT",
+			"slug": "directory/ct"
+		},
+		{
+			"c_addressRegionDisplayName": "Utah",
+			"dm_baseEntityCount": "4",
+			"name": "UT",
+			"slug": "directory/ut"
+		},
+		{
+			"c_addressRegionDisplayName": "Alabama",
+			"dm_baseEntityCount": "11",
+			"name": "AL",
+			"slug": "directory/al"
+		},
+		{
+			"c_addressRegionDisplayName": "Delaware",
+			"dm_baseEntityCount": "1",
+			"name": "DE",
+			"slug": "directory/de"
+		},
+		{
+			"c_addressRegionDisplayName": "New Mexico",
+			"dm_baseEntityCount": "3",
+			"name": "NM",
+			"slug": "directory/nm"
+		},
+		{
+			"c_addressRegionDisplayName": "Rhode Island",
+			"dm_baseEntityCount": "3",
+			"name": "RI",
+			"slug": "directory/ri"
+		},
+		{
+			"c_addressRegionDisplayName": "Washington DC",
+			"dm_baseEntityCount": "2",
+			"name": "DC",
+			"slug": "directory/dc"
+		},
+		{
+			"c_addressRegionDisplayName": "Wyoming",
+			"dm_baseEntityCount": "14",
+			"name": "WY",
+			"slug": "directory/wy"
+		},
+		{
+			"c_addressRegionDisplayName": "Mississippi",
+			"dm_baseEntityCount": "4",
+			"name": "MS",
+			"slug": "directory/ms"
+		},
+		{
+			"c_addressRegionDisplayName": "West Virginia",
+			"dm_baseEntityCount": "2",
+			"name": "WV",
+			"slug": "directory/wv"
+		}
+	],
+	"id": "defaultDirectory",
+	"key": "0:root:knowledgeGraph:1029200159:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_root",
+			"uid": 142254
+		},
+		"locale": "en"
+	},
+	"name": "Directory",
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"slug": "directory",
+	"uid": 1029200159
+}

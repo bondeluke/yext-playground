@@ -1,0 +1,39 @@
+.ResultList {
+  &-item {
+    counter-increment: resultCount;
+    display: flex;
+    position: relative;
+    margin-top: 20px;
+
+    @screen md {
+      padding: 0 16px 16px;
+      margin-top: 0;
+    }
+
+    &::after {
+      content: counter(resultCount, decimal);
+      position: absolute;
+      color: theme(colors.brand-primary);
+      top: 0;
+      left: 0;
+
+      @screen md {
+        right: 42px;
+        top: 10px;
+        left: auto;
+        background-color: theme(colors.brand-secondary);
+        width: 40px;
+        height: 40px;
+        text-align: center;
+        border-radius: 50%;
+        padding-top: 8px;
+      }
+    }
+  }
+
+  &-default {
+    &::after {
+      content: none;
+    }
+  }
+}

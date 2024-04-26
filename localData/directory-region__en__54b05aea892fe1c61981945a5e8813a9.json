@@ -1,0 +1,794 @@
+{
+	"__": {
+		"entityPageSet": {},
+		"name": "region"
+	},
+	"_site": {
+		"c_bannerText": "Connect with our Virtual Advice Team. We have a team of professionals just a phone call away.",
+		"c_bannerURL": "https://www.thrivent.com/about-us/working-with-thrivent/thrivent-financial-guidance-team.html",
+		"c_cFPCopyRightText": "Certified Financial Planner Board of Standards, Inc. (CFP Board) owns the CFP® certification mark, the CERTIFIED FINANCIAL PLANNER™ certification mark, and the CFP® certification mark (with plaque design) logo in the United States, which it authorizes use of by individuals who successfully complete CFP Board's initial and ongoing certification requirements.",
+		"c_cFPLogic": true,
+		"c_companyPhoneNumber": {
+			"label": "T: 800-847-4836",
+			"link": "+18008474836",
+			"linkType": "PHONE"
+		},
+		"c_copyrightMessage": "Certified Financial Planner Board of Standards, Inc. (CFP Board) owns the CFP® certification mark, the CERTIFIED FINANCIAL PLANNER™ certification mark, and the CFP® certification mark (with plaque design) logo in the United States, which it authorizes use of by individuals who successfully complete CFP Board's initial and ongoing certification requirements.",
+		"c_copyrightText": {
+			"json": {
+				"root": {
+					"children": [
+						{
+							"children": [
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": "© 2023 Thrivent. All rights reserved. ",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"children": [
+										{
+											"detail": 0,
+											"format": 0,
+											"mode": "normal",
+											"style": "",
+											"text": "Terms of Use.",
+											"type": "text",
+											"version": 1
+										},
+										{
+											"type": "linebreak",
+											"version": 1
+										},
+										{
+											"type": "linebreak",
+											"version": 1
+										}
+									],
+									"direction": "ltr",
+									"format": "",
+									"indent": 0,
+									"rel": null,
+									"target": null,
+									"type": "link",
+									"url": "https://www.thrivent.com/privacy-and-security/terms-of-use.html",
+									"version": 1
+								}
+							],
+							"direction": "ltr",
+							"format": "",
+							"indent": 0,
+							"type": "paragraph",
+							"version": 1
+						},
+						{
+							"children": [
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": "Thrivent is the marketing name for Thrivent Financial for Lutherans. Insurance products issued by Thrivent. Not available in all states. Securities and investment advisory services offered through Thrivent Investment Management Inc., a registered investment adviser, member ",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"children": [
+										{
+											"detail": 0,
+											"format": 0,
+											"mode": "normal",
+											"style": "",
+											"text": "FINRA",
+											"type": "text",
+											"version": 1
+										}
+									],
+									"direction": "ltr",
+									"format": "",
+									"indent": 0,
+									"rel": null,
+									"target": null,
+									"type": "link",
+									"url": "https://www.finra.org/#/",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": " and ",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"children": [
+										{
+											"detail": 0,
+											"format": 0,
+											"mode": "normal",
+											"style": "",
+											"text": "SIPC",
+											"type": "text",
+											"version": 1
+										}
+									],
+									"direction": "ltr",
+									"format": "",
+									"indent": 0,
+									"rel": null,
+									"target": null,
+									"type": "link",
+									"url": "https://www.sipc.org/",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": ", and a subsidiary of Thrivent. Licensed agent/producer of Thrivent. Registered representative of Thrivent Investment Management, Inc. ",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"children": [
+										{
+											"detail": 0,
+											"format": 0,
+											"mode": "normal",
+											"style": "",
+											"text": "Thrivent.com/disclosures",
+											"type": "text",
+											"version": 1
+										}
+									],
+									"direction": "ltr",
+									"format": "",
+									"indent": 0,
+									"rel": null,
+									"target": null,
+									"type": "link",
+									"url": "https://www.thrivent.com/privacy-and-security/disclosures.html",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": ".",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"type": "linebreak",
+									"version": 1
+								},
+								{
+									"type": "linebreak",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": "Insurance products, securities and investment advisory services are provided by appropriately appointed and licensed financial advisors and professionals. Only individuals who are financial advisors are credentialed to provide investment advisory services. Visit ",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"children": [
+										{
+											"detail": 0,
+											"format": 0,
+											"mode": "normal",
+											"style": "",
+											"text": "Thrivent.com",
+											"type": "text",
+											"version": 1
+										}
+									],
+									"direction": "ltr",
+									"format": "",
+									"indent": 0,
+									"rel": null,
+									"target": null,
+									"type": "link",
+									"url": "http://thrivent.com/",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": " or ",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"children": [
+										{
+											"detail": 0,
+											"format": 0,
+											"mode": "normal",
+											"style": "",
+											"text": "FINRA’s Broker Check",
+											"type": "text",
+											"version": 1
+										}
+									],
+									"direction": "ltr",
+									"format": "",
+									"indent": 0,
+									"rel": null,
+									"target": null,
+									"type": "link",
+									"url": "https://brokercheck.finra.org/",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": " for more information about our financial advisors.",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"type": "linebreak",
+									"version": 1
+								},
+								{
+									"type": "linebreak",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": "Thrivent provides advice and guidance through its Financial Planning Framework that generally includes a review and analysis of a client’s financial situation. A client may choose to further their planning engagement with Thrivent through its Dedicated Planning Services (an investment advisory service) that results in written recommendations for a fee.",
+									"type": "text",
+									"version": 1
+								}
+							],
+							"direction": "ltr",
+							"format": "",
+							"indent": 0,
+							"type": "paragraph",
+							"version": 1
+						}
+					],
+					"direction": "ltr",
+					"format": "",
+					"indent": 0,
+					"type": "root",
+					"version": 1
+				}
+			}
+		},
+		"c_defaultResultCard": {
+			"cTA1": {
+				"label": "About Us",
+				"link": "https://www.thrivent.com/advice/virtual-advice-team",
+				"linkType": "URL"
+			},
+			"cTA2": {
+				"label": "Get In Touch",
+				"link": "https://www.thrivent.com/offers/online-appointment",
+				"linkType": "URL"
+			},
+			"name": "Virtual Advice Team",
+			"phone": {
+				"label": "(888) 834-7434",
+				"link": "+18888347434",
+				"linkType": "PHONE"
+			},
+			"photo": {
+				"alternateText": "thrivent profile photo",
+				"height": 372,
+				"url": "https://a.mktgcdn.com/p/owIRiQpJtKcODTweyK5gB2lUejrhjF32f9hcnyHpnCk/290x372.png",
+				"width": 290
+			},
+			"title": "Team Practice"
+		},
+		"c_facebook": "https://www.facebook.com/thrivent/",
+		"c_footerColumns": [
+			{
+				"footerLink": [
+					{
+						"label": "About us",
+						"link": "https://www.thrivent.com/about-us/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Insights \u0026 guidance",
+						"link": "https://www.thrivent.com/insights/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Log in",
+						"link": "https://myservice.thrivent.com/portal/mythrivent",
+						"linkType": "URL"
+					},
+					{
+						"label": "Find an advisor",
+						"link": "https://local.thrivent.com/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Careers",
+						"link": "https://www.thrivent.com/careers",
+						"linkType": "URL"
+					},
+					{
+						"label": "Contact Us",
+						"link": "https://www.thrivent.com/about-us/support",
+						"linkType": "URL"
+					},
+					{
+						"label": "Claims",
+						"link": "https://www.thrivent.com/claims/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Thrivent merchandise",
+						"link": "https://www.mybrandmall.com/thrivent/",
+						"linkType": "URL"
+					}
+				],
+				"title": "Navigation"
+			},
+			{
+				"footerLink": [
+					{
+						"label": "Newsroom",
+						"link": "https://www.thrivent.com/newsroom/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Financial information",
+						"link": "https://www.thrivent.com/governance#financial-info",
+						"linkType": "URL"
+					},
+					{
+						"label": "Thrivent Magazine",
+						"link": "https://www.thrivent.com/insights/magazine/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Mobile app",
+						"link": "https://www.thrivent.com/mobile-app",
+						"linkType": "URL"
+					}
+				],
+				"title": "Quick links"
+			},
+			{
+				"footerLink": [
+					{
+						"label": "Forms",
+						"link": "https://www.thrivent.com/forms/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Governance",
+						"link": "https://www.thrivent.com/governance",
+						"linkType": "URL"
+					},
+					{
+						"label": "PRIVACY \u0026 SECURITY",
+						"link": "https://www.thrivent.com/privacy-and-security/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Tax resource center",
+						"link": "https://www.thrivent.com/tax-resource-center/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Terms of use",
+						"link": "https://www.thrivent.com/privacy-and-security/terms-of-use",
+						"linkType": "URL"
+					}
+				],
+				"title": "Legal"
+			},
+			{
+				"footerText": "4321 N. Ballard Rd.\nAppleton, WI\n54919-0001 USA",
+				"title": "Operations Center"
+			},
+			{
+				"footerText": "600 Portland Avenue S.,\nSuite 100\nMinneapolis, MN\n55415-4402 USA",
+				"title": "Corporate Center"
+			}
+		],
+		"c_footerPhoto": {
+			"clickthroughUrl": "https://brokercheck.finra.org/",
+			"description": "Check the background of our professionals on FINRA’s BrokerCheck.",
+			"image": {
+				"alternateText": "BrokerCheck Logo",
+				"height": 124,
+				"url": "https://a.mktgcdn.com/p/XgFBGdcl05ygY2UgnvTB8XKAV3dRWFGRUM7i20_nWXY/418x124.png",
+				"width": 418
+			}
+		},
+		"c_header": {
+			"links": [
+				{
+					"label": "Log In",
+					"link": "https://servicing.apps.thrivent.com/",
+					"linkType": "URL"
+				}
+			],
+			"logo": {
+				"alternateText": "Thrivent Logo",
+				"height": 1338,
+				"url": "https://a.mktgcdn.com/p/HmPg6JAKMRRCOK7cj5pdLaLVdRxmnJz40c4Vm05zRVE/3000x1338.png",
+				"width": 3000
+			}
+		},
+		"c_instagram": "https://www.instagram.com/thrivent/",
+		"c_linkedIn": "https://www.linkedin.com/company/6233",
+		"c_placeholderPhoto": {
+			"height": 372,
+			"url": "https://a.mktgcdn.com/p/owIRiQpJtKcODTweyK5gB2lUejrhjF32f9hcnyHpnCk/290x372.png",
+			"width": 290
+		},
+		"c_searchExperienceAPIKey": "4b2e8888389009aeb3af17a231cb043b",
+		"c_searchPage": [
+			{}
+		],
+		"c_twitter": "https://www.twitter.com/thrivent/",
+		"id": "site-entity",
+		"logo": {
+			"clickthroughUrl": "https://www.thrivent.com/",
+			"image": {
+				"alternateText": "Thrivent Logo",
+				"height": 3000,
+				"url": "https://a.mktgcdn.com/p/WZ63RQBuNZishiZJrqMOdS8jG3eYIT7f_Js-jLMgxR0/3000x3000.png",
+				"width": 3000
+			}
+		},
+		"meta": {
+			"entityType": {
+				"id": "ce_site",
+				"uid": 142256
+			},
+			"locale": "en"
+		},
+		"name": "Site Entity",
+		"uid": 1029196019
+	},
+	"businessId": 3151815,
+	"c_addressRegionDisplayName": "Michigan",
+	"c_breadcrumb": "Michigan",
+	"c_directoryHeroDescription": "141 Thrivent Financial Professionals in Michigan",
+	"c_meta": {
+		"description": "Browse all Thrivent Advisors in MI to find retirement and investment planning options for Christians",
+		"title": "Thrivent Advisors in MI | Retirement and investment plannning for Christians"
+	},
+	"dm_baseEntityCount": "141",
+	"dm_directoryChildren": [
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "2",
+			"name": "Caro",
+			"slug": "directory/mi/caro"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "2",
+			"name": "Wayland",
+			"slug": "directory/mi/wayland"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "2",
+			"name": "Novi",
+			"slug": "directory/mi/novi"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "3",
+			"name": "Brighton",
+			"slug": "directory/mi/brighton"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "1",
+			"name": "Alpena",
+			"slug": "directory/mi/alpena"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "1",
+			"name": "Kimball",
+			"slug": "directory/mi/kimball"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "1",
+			"name": "Minneapolis",
+			"slug": "directory/mi/minneapolis"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "1",
+			"name": "Iron Mountain",
+			"slug": "directory/mi/iron-mountain"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "4",
+			"name": "Iron River",
+			"slug": "directory/mi/iron-river"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "1",
+			"name": "Midland",
+			"slug": "directory/mi/midland"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "1",
+			"name": "Ironwood",
+			"slug": "directory/mi/ironwood"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "1",
+			"name": "Wyandotte",
+			"slug": "directory/mi/wyandotte"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "1",
+			"name": "Clarkston",
+			"slug": "directory/mi/clarkston"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "3",
+			"name": "Southgate",
+			"slug": "directory/mi/southgate"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "1",
+			"name": "Bad Axe",
+			"slug": "directory/mi/bad-axe"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "1",
+			"name": "Fenton",
+			"slug": "directory/mi/fenton"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "6",
+			"name": "Shelby Township",
+			"slug": "directory/mi/shelby-township"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "8",
+			"name": "Grand Rapids",
+			"slug": "directory/mi/grand-rapids"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "9",
+			"name": "Ann Arbor",
+			"slug": "directory/mi/ann-arbor"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "3",
+			"name": "Traverse City",
+			"slug": "directory/mi/traverse-city"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "5",
+			"name": "Plymouth",
+			"slug": "directory/mi/plymouth"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "1",
+			"name": "Shelby Twp.",
+			"slug": "directory/mi/shelby-twp."
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "3",
+			"name": "Mount Clemens",
+			"slug": "directory/mi/mount-clemens"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "1",
+			"name": "Whitehall",
+			"slug": "directory/mi/whitehall"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "2",
+			"name": "North Muskegon",
+			"slug": "directory/mi/north-muskegon"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "3",
+			"name": "Hancock",
+			"slug": "directory/mi/hancock"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "5",
+			"name": "Lansing",
+			"slug": "directory/mi/lansing"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "3",
+			"name": "Carleton",
+			"slug": "directory/mi/carleton"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "1",
+			"name": "Marshall",
+			"slug": "directory/mi/marshall"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "3",
+			"name": "Ishpeming",
+			"slug": "directory/mi/ishpeming"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "5",
+			"name": "Bay City",
+			"slug": "directory/mi/bay-city"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "4",
+			"name": "Frankenmuth",
+			"slug": "directory/mi/frankenmuth"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "1",
+			"name": "Kimball Township",
+			"slug": "directory/mi/kimball-township"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "2",
+			"name": "Holly",
+			"slug": "directory/mi/holly"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "3",
+			"name": "Chesterfield",
+			"slug": "directory/mi/chesterfield"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "5",
+			"name": "Saint Joseph",
+			"slug": "directory/mi/saint-joseph"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "7",
+			"name": "Detroit",
+			"slug": "directory/mi/detroit"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "2",
+			"name": "Troy",
+			"slug": "directory/mi/troy"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "4",
+			"name": "Marquette",
+			"slug": "directory/mi/marquette"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "2",
+			"name": "Kalamazoo",
+			"slug": "directory/mi/kalamazoo"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "2",
+			"name": "Monroe",
+			"slug": "directory/mi/monroe"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "5",
+			"name": "Livonia",
+			"slug": "directory/mi/livonia"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "3",
+			"name": "Chelsea",
+			"slug": "directory/mi/chelsea"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "5",
+			"name": "Sterling Heights",
+			"slug": "directory/mi/sterling-heights"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "2",
+			"name": "Escanaba",
+			"slug": "directory/mi/escanaba"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "3",
+			"name": "Bloomfield Hills",
+			"slug": "directory/mi/bloomfield-hills"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "6",
+			"name": "Saginaw",
+			"slug": "directory/mi/saginaw"
+		},
+		{
+			"c_addressRegionDisplayName": "Michigan",
+			"dm_baseEntityCount": "1",
+			"name": "Byron Center",
+			"slug": "directory/mi/byron-center"
+		}
+	],
+	"dm_directoryParents": [
+		{
+			"c_breadcrumb": "All Advisors",
+			"name": "Directory",
+			"slug": "directory"
+		}
+	],
+	"id": "defaultDirectory_mi",
+	"key": "0:region:knowledgeGraph:1029200192:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_region",
+			"uid": 142253
+		},
+		"locale": "en"
+	},
+	"name": "MI",
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"slug": "directory/mi",
+	"uid": 1029200192
+}

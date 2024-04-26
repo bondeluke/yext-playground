@@ -1,0 +1,41 @@
+{
+	"404": [
+		"cog-internal-feature-static-file-generation-404__en__cfcd208495d565ef66e7dff9f98764da.json"
+	],
+	"city": [
+		"directory-city__en__f9e0d6187e7469f8b6736ac3f127a0eb.json",
+		"directory-city__en__69f59b4499290a4cc9b4751b08c3cdcc.json",
+		"directory-city__en__5f5b46ea9c2b38bd368d1b0cf47a09f5.json",
+		"directory-city__en__b881bb94a88eec2d5c7b384a3a15b2d7.json",
+		"directory-city__en__748faa71dce4eef8acf54114b7b29bf6.json",
+		"directory-city__en__b0b395471907c4ce638ead15543a2918.json",
+		"directory-city__en__0d49431f6d2440ac58a3f3e57bfbd5c5.json",
+		"directory-city__en__f50f0f374ab3f55db6a4b81c1f069a93.json",
+		"directory-city__en__be3a8e4862655537e560f290999b2e03.json",
+		"directory-city__en__fced0a52ff2d715346a16e930e1de069.json"
+	],
+	"name-search": [
+		"name-search-page__en__0b088a3da29be441c4f165f83c2d317c.json"
+	],
+	"region": [
+		"directory-region__en__1ff915acad97463a0d5d5263b052022c.json",
+		"directory-region__en__557d130c9e5b382ff473a342fdfc0b7e.json",
+		"directory-region__en__43ec58b5a31fd19960300c3321206781.json",
+		"directory-region__en__a1b7c85eca69d13324b12bb5524e60f0.json",
+		"directory-region__en__49c81c678eab15d8791c5e6eb724d671.json",
+		"directory-region__en__3dce38a42c0d9af490a059269a3d4022.json",
+		"directory-region__en__cbdfad9a366d31525bcd4e398166d62e.json",
+		"directory-region__en__a111ddd963c4f5b6a99210dc317523e3.json",
+		"directory-region__en__408e75e08e903905f1e9db39ead8ec3c.json",
+		"directory-region__en__54b05aea892fe1c61981945a5e8813a9.json"
+	],
+	"robots": [
+		"cog-internal-feature-static-file-generation-robots__en__cfcd208495d565ef66e7dff9f98764da.json"
+	],
+	"root": [
+		"directory-root__en__21346f0265b6114ccd1bdb1a49d09da3.json"
+	],
+	"search": [
+		"search-page__en__0b088a3da29be441c4f165f83c2d317c.json"
+	]
+}

@@ -1,0 +1,884 @@
+{
+	"__": {
+		"entityPageSet": {},
+		"name": "region"
+	},
+	"_site": {
+		"c_bannerText": "Connect with our Virtual Advice Team. We have a team of professionals just a phone call away.",
+		"c_bannerURL": "https://www.thrivent.com/about-us/working-with-thrivent/thrivent-financial-guidance-team.html",
+		"c_cFPCopyRightText": "Certified Financial Planner Board of Standards, Inc. (CFP Board) owns the CFP® certification mark, the CERTIFIED FINANCIAL PLANNER™ certification mark, and the CFP® certification mark (with plaque design) logo in the United States, which it authorizes use of by individuals who successfully complete CFP Board's initial and ongoing certification requirements.",
+		"c_cFPLogic": true,
+		"c_companyPhoneNumber": {
+			"label": "T: 800-847-4836",
+			"link": "+18008474836",
+			"linkType": "PHONE"
+		},
+		"c_copyrightMessage": "Certified Financial Planner Board of Standards, Inc. (CFP Board) owns the CFP® certification mark, the CERTIFIED FINANCIAL PLANNER™ certification mark, and the CFP® certification mark (with plaque design) logo in the United States, which it authorizes use of by individuals who successfully complete CFP Board's initial and ongoing certification requirements.",
+		"c_copyrightText": {
+			"json": {
+				"root": {
+					"children": [
+						{
+							"children": [
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": "© 2023 Thrivent. All rights reserved. ",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"children": [
+										{
+											"detail": 0,
+											"format": 0,
+											"mode": "normal",
+											"style": "",
+											"text": "Terms of Use.",
+											"type": "text",
+											"version": 1
+										},
+										{
+											"type": "linebreak",
+											"version": 1
+										},
+										{
+											"type": "linebreak",
+											"version": 1
+										}
+									],
+									"direction": "ltr",
+									"format": "",
+									"indent": 0,
+									"rel": null,
+									"target": null,
+									"type": "link",
+									"url": "https://www.thrivent.com/privacy-and-security/terms-of-use.html",
+									"version": 1
+								}
+							],
+							"direction": "ltr",
+							"format": "",
+							"indent": 0,
+							"type": "paragraph",
+							"version": 1
+						},
+						{
+							"children": [
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": "Thrivent is the marketing name for Thrivent Financial for Lutherans. Insurance products issued by Thrivent. Not available in all states. Securities and investment advisory services offered through Thrivent Investment Management Inc., a registered investment adviser, member ",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"children": [
+										{
+											"detail": 0,
+											"format": 0,
+											"mode": "normal",
+											"style": "",
+											"text": "FINRA",
+											"type": "text",
+											"version": 1
+										}
+									],
+									"direction": "ltr",
+									"format": "",
+									"indent": 0,
+									"rel": null,
+									"target": null,
+									"type": "link",
+									"url": "https://www.finra.org/#/",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": " and ",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"children": [
+										{
+											"detail": 0,
+											"format": 0,
+											"mode": "normal",
+											"style": "",
+											"text": "SIPC",
+											"type": "text",
+											"version": 1
+										}
+									],
+									"direction": "ltr",
+									"format": "",
+									"indent": 0,
+									"rel": null,
+									"target": null,
+									"type": "link",
+									"url": "https://www.sipc.org/",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": ", and a subsidiary of Thrivent. Licensed agent/producer of Thrivent. Registered representative of Thrivent Investment Management, Inc. ",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"children": [
+										{
+											"detail": 0,
+											"format": 0,
+											"mode": "normal",
+											"style": "",
+											"text": "Thrivent.com/disclosures",
+											"type": "text",
+											"version": 1
+										}
+									],
+									"direction": "ltr",
+									"format": "",
+									"indent": 0,
+									"rel": null,
+									"target": null,
+									"type": "link",
+									"url": "https://www.thrivent.com/privacy-and-security/disclosures.html",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": ".",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"type": "linebreak",
+									"version": 1
+								},
+								{
+									"type": "linebreak",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": "Insurance products, securities and investment advisory services are provided by appropriately appointed and licensed financial advisors and professionals. Only individuals who are financial advisors are credentialed to provide investment advisory services. Visit ",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"children": [
+										{
+											"detail": 0,
+											"format": 0,
+											"mode": "normal",
+											"style": "",
+											"text": "Thrivent.com",
+											"type": "text",
+											"version": 1
+										}
+									],
+									"direction": "ltr",
+									"format": "",
+									"indent": 0,
+									"rel": null,
+									"target": null,
+									"type": "link",
+									"url": "http://thrivent.com/",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": " or ",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"children": [
+										{
+											"detail": 0,
+											"format": 0,
+											"mode": "normal",
+											"style": "",
+											"text": "FINRA’s Broker Check",
+											"type": "text",
+											"version": 1
+										}
+									],
+									"direction": "ltr",
+									"format": "",
+									"indent": 0,
+									"rel": null,
+									"target": null,
+									"type": "link",
+									"url": "https://brokercheck.finra.org/",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": " for more information about our financial advisors.",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"type": "linebreak",
+									"version": 1
+								},
+								{
+									"type": "linebreak",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": "Thrivent provides advice and guidance through its Financial Planning Framework that generally includes a review and analysis of a client’s financial situation. A client may choose to further their planning engagement with Thrivent through its Dedicated Planning Services (an investment advisory service) that results in written recommendations for a fee.",
+									"type": "text",
+									"version": 1
+								}
+							],
+							"direction": "ltr",
+							"format": "",
+							"indent": 0,
+							"type": "paragraph",
+							"version": 1
+						}
+					],
+					"direction": "ltr",
+					"format": "",
+					"indent": 0,
+					"type": "root",
+					"version": 1
+				}
+			}
+		},
+		"c_defaultResultCard": {
+			"cTA1": {
+				"label": "About Us",
+				"link": "https://www.thrivent.com/advice/virtual-advice-team",
+				"linkType": "URL"
+			},
+			"cTA2": {
+				"label": "Get In Touch",
+				"link": "https://www.thrivent.com/offers/online-appointment",
+				"linkType": "URL"
+			},
+			"name": "Virtual Advice Team",
+			"phone": {
+				"label": "(888) 834-7434",
+				"link": "+18888347434",
+				"linkType": "PHONE"
+			},
+			"photo": {
+				"alternateText": "thrivent profile photo",
+				"height": 372,
+				"url": "https://a.mktgcdn.com/p/owIRiQpJtKcODTweyK5gB2lUejrhjF32f9hcnyHpnCk/290x372.png",
+				"width": 290
+			},
+			"title": "Team Practice"
+		},
+		"c_facebook": "https://www.facebook.com/thrivent/",
+		"c_footerColumns": [
+			{
+				"footerLink": [
+					{
+						"label": "About us",
+						"link": "https://www.thrivent.com/about-us/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Insights \u0026 guidance",
+						"link": "https://www.thrivent.com/insights/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Log in",
+						"link": "https://myservice.thrivent.com/portal/mythrivent",
+						"linkType": "URL"
+					},
+					{
+						"label": "Find an advisor",
+						"link": "https://local.thrivent.com/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Careers",
+						"link": "https://www.thrivent.com/careers",
+						"linkType": "URL"
+					},
+					{
+						"label": "Contact Us",
+						"link": "https://www.thrivent.com/about-us/support",
+						"linkType": "URL"
+					},
+					{
+						"label": "Claims",
+						"link": "https://www.thrivent.com/claims/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Thrivent merchandise",
+						"link": "https://www.mybrandmall.com/thrivent/",
+						"linkType": "URL"
+					}
+				],
+				"title": "Navigation"
+			},
+			{
+				"footerLink": [
+					{
+						"label": "Newsroom",
+						"link": "https://www.thrivent.com/newsroom/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Financial information",
+						"link": "https://www.thrivent.com/governance#financial-info",
+						"linkType": "URL"
+					},
+					{
+						"label": "Thrivent Magazine",
+						"link": "https://www.thrivent.com/insights/magazine/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Mobile app",
+						"link": "https://www.thrivent.com/mobile-app",
+						"linkType": "URL"
+					}
+				],
+				"title": "Quick links"
+			},
+			{
+				"footerLink": [
+					{
+						"label": "Forms",
+						"link": "https://www.thrivent.com/forms/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Governance",
+						"link": "https://www.thrivent.com/governance",
+						"linkType": "URL"
+					},
+					{
+						"label": "PRIVACY \u0026 SECURITY",
+						"link": "https://www.thrivent.com/privacy-and-security/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Tax resource center",
+						"link": "https://www.thrivent.com/tax-resource-center/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Terms of use",
+						"link": "https://www.thrivent.com/privacy-and-security/terms-of-use",
+						"linkType": "URL"
+					}
+				],
+				"title": "Legal"
+			},
+			{
+				"footerText": "4321 N. Ballard Rd.\nAppleton, WI\n54919-0001 USA",
+				"title": "Operations Center"
+			},
+			{
+				"footerText": "600 Portland Avenue S.,\nSuite 100\nMinneapolis, MN\n55415-4402 USA",
+				"title": "Corporate Center"
+			}
+		],
+		"c_footerPhoto": {
+			"clickthroughUrl": "https://brokercheck.finra.org/",
+			"description": "Check the background of our professionals on FINRA’s BrokerCheck.",
+			"image": {
+				"alternateText": "BrokerCheck Logo",
+				"height": 124,
+				"url": "https://a.mktgcdn.com/p/XgFBGdcl05ygY2UgnvTB8XKAV3dRWFGRUM7i20_nWXY/418x124.png",
+				"width": 418
+			}
+		},
+		"c_header": {
+			"links": [
+				{
+					"label": "Log In",
+					"link": "https://servicing.apps.thrivent.com/",
+					"linkType": "URL"
+				}
+			],
+			"logo": {
+				"alternateText": "Thrivent Logo",
+				"height": 1338,
+				"url": "https://a.mktgcdn.com/p/HmPg6JAKMRRCOK7cj5pdLaLVdRxmnJz40c4Vm05zRVE/3000x1338.png",
+				"width": 3000
+			}
+		},
+		"c_instagram": "https://www.instagram.com/thrivent/",
+		"c_linkedIn": "https://www.linkedin.com/company/6233",
+		"c_placeholderPhoto": {
+			"height": 372,
+			"url": "https://a.mktgcdn.com/p/owIRiQpJtKcODTweyK5gB2lUejrhjF32f9hcnyHpnCk/290x372.png",
+			"width": 290
+		},
+		"c_searchExperienceAPIKey": "4b2e8888389009aeb3af17a231cb043b",
+		"c_searchPage": [
+			{}
+		],
+		"c_twitter": "https://www.twitter.com/thrivent/",
+		"id": "site-entity",
+		"logo": {
+			"clickthroughUrl": "https://www.thrivent.com/",
+			"image": {
+				"alternateText": "Thrivent Logo",
+				"height": 3000,
+				"url": "https://a.mktgcdn.com/p/WZ63RQBuNZishiZJrqMOdS8jG3eYIT7f_Js-jLMgxR0/3000x3000.png",
+				"width": 3000
+			}
+		},
+		"meta": {
+			"entityType": {
+				"id": "ce_site",
+				"uid": 142256
+			},
+			"locale": "en"
+		},
+		"name": "Site Entity",
+		"uid": 1029196019
+	},
+	"businessId": 3151815,
+	"c_addressRegionDisplayName": "California",
+	"c_breadcrumb": "California",
+	"c_directoryHeroDescription": "204 Thrivent Financial Professionals in California",
+	"c_meta": {
+		"description": "Browse all Thrivent Advisors in CA to find retirement and investment planning options for Christians",
+		"title": "Thrivent Advisors in CA | Retirement and investment plannning for Christians"
+	},
+	"dm_baseEntityCount": "204",
+	"dm_directoryChildren": [
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "3",
+			"name": "Santa Clarita",
+			"slug": "directory/ca/santa-clarita"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "Hermosa Beach",
+			"slug": "directory/ca/hermosa-beach"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "3",
+			"name": "Anaheim",
+			"slug": "directory/ca/anaheim"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "Lodi",
+			"slug": "directory/ca/lodi"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "Citrus Heights",
+			"slug": "directory/ca/citrus-heights"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "5",
+			"name": "Valencia",
+			"slug": "directory/ca/valencia"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "11",
+			"name": "Ontario",
+			"slug": "directory/ca/ontario"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "4",
+			"name": "Pleasanton",
+			"slug": "directory/ca/pleasanton"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "3",
+			"name": "Auburn",
+			"slug": "directory/ca/auburn"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "2",
+			"name": "Newbury Park",
+			"slug": "directory/ca/newbury-park"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "4",
+			"name": "Fresno",
+			"slug": "directory/ca/fresno"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "Los Angeles",
+			"slug": "directory/ca/los-angeles"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "2",
+			"name": "Torrance",
+			"slug": "directory/ca/torrance"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "5",
+			"name": "Arcadia",
+			"slug": "directory/ca/arcadia"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "Sonora",
+			"slug": "directory/ca/sonora"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "El Dorado Hills",
+			"slug": "directory/ca/el-dorado-hills"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "5",
+			"name": "San Diego",
+			"slug": "directory/ca/san-diego"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "2",
+			"name": "San Francisco",
+			"slug": "directory/ca/san-francisco"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "3",
+			"name": "Costa Mesa",
+			"slug": "directory/ca/costa-mesa"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "2",
+			"name": "Santa Barbara",
+			"slug": "directory/ca/santa-barbara"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "Elk Grove",
+			"slug": "directory/ca/elk-grove"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "National City",
+			"slug": "directory/ca/national-city"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "Ramona",
+			"slug": "directory/ca/ramona"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "Stockton",
+			"slug": "directory/ca/stockton"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "Beaumont",
+			"slug": "directory/ca/beaumont"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "Carlsbad",
+			"slug": "directory/ca/carlsbad"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "Santa Rosa",
+			"slug": "directory/ca/santa-rosa"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "Aptos",
+			"slug": "directory/ca/aptos"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "4",
+			"name": "Folsom",
+			"slug": "directory/ca/folsom"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "Escondido",
+			"slug": "directory/ca/escondido"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "Monterey",
+			"slug": "directory/ca/monterey"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "4",
+			"name": "Santee",
+			"slug": "directory/ca/santee"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "2",
+			"name": "Walnut Creek",
+			"slug": "directory/ca/walnut-creek"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "2",
+			"name": "Chico",
+			"slug": "directory/ca/chico"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "3",
+			"name": "Redding",
+			"slug": "directory/ca/redding"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "8",
+			"name": "San Jose",
+			"slug": "directory/ca/san-jose"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "3",
+			"name": "Pismo Beach",
+			"slug": "directory/ca/pismo-beach"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "12",
+			"name": "Del Mar",
+			"slug": "directory/ca/del-mar"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "Sacramento",
+			"slug": "directory/ca/sacramento"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "Escalon",
+			"slug": "directory/ca/escalon"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "6",
+			"name": "Huntington Beach",
+			"slug": "directory/ca/huntington-beach"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "San Rafael",
+			"slug": "directory/ca/san-rafael"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "4",
+			"name": "Vista",
+			"slug": "directory/ca/vista"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "Granite Bay",
+			"slug": "directory/ca/granite-bay"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "2",
+			"name": "Brea",
+			"slug": "directory/ca/brea"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "Mammoth Lakes",
+			"slug": "directory/ca/mammoth-lakes"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "7",
+			"name": "Thousand Oaks",
+			"slug": "directory/ca/thousand-oaks"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "3",
+			"name": "Lancaster",
+			"slug": "directory/ca/lancaster"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "5",
+			"name": "Temecula",
+			"slug": "directory/ca/temecula"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "Orange",
+			"slug": "directory/ca/orange"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "9",
+			"name": "Lakewood",
+			"slug": "directory/ca/lakewood"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "2",
+			"name": "Fortuna",
+			"slug": "directory/ca/fortuna"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "Roseville",
+			"slug": "directory/ca/roseville"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "3",
+			"name": "Clovis",
+			"slug": "directory/ca/clovis"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "18",
+			"name": "Glendale",
+			"slug": "directory/ca/glendale"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "2",
+			"name": "San Clemente",
+			"slug": "directory/ca/san-clemente"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "Ventura",
+			"slug": "directory/ca/ventura"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "5",
+			"name": "Simi Valley",
+			"slug": "directory/ca/simi-valley"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "1",
+			"name": "Santa Monica",
+			"slug": "directory/ca/santa-monica"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "3",
+			"name": "Bakersfield",
+			"slug": "directory/ca/bakersfield"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "19",
+			"name": "Irvine",
+			"slug": "directory/ca/irvine"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "2",
+			"name": "Redwood City",
+			"slug": "directory/ca/redwood-city"
+		},
+		{
+			"c_addressRegionDisplayName": "California",
+			"dm_baseEntityCount": "2",
+			"name": "Vacaville",
+			"slug": "directory/ca/vacaville"
+		}
+	],
+	"dm_directoryParents": [
+		{
+			"c_breadcrumb": "All Advisors",
+			"name": "Directory",
+			"slug": "directory"
+		}
+	],
+	"id": "defaultDirectory_ca",
+	"key": "0:region:knowledgeGraph:1029200172:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_region",
+			"uid": 142253
+		},
+		"locale": "en"
+	},
+	"name": "CA",
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"slug": "directory/ca",
+	"uid": 1029200172
+}

@@ -1,0 +1,85 @@
+@import "src/styles/variables.css";
+@import "src/styles/utils.css";
+@import "src/styles/fonts.css";
+@import "src/styles/theme.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+/* TODO(bhaines): remove, this is only necessary until
+https://github.com/yext/pages/issues/211 is resolved */
+#reactele,
+#root {
+  display: grid;
+  height: 100%;
+  grid-template-rows: auto 1fr auto;
+  font-family: theme(fontFamily.primary);
+}
+
+.CardCTA {
+  &-arrow {
+    transition: all 0.7s ease;
+    margin-right: 0;
+    margin-left: -5px;
+  }
+
+  &:hover {
+    .CardCTA-arrow {
+      margin-left: 0px;
+      margin-right: -5px;
+    }
+  }
+}
+
+.GeolocateButton,
+.FiltersToggle {
+  filter: brightness(0) saturate(100%) invert(76%) sepia(19%) saturate(655%)
+    hue-rotate(1deg) brightness(87%) contrast(94%);
+}
+
+.SearchBar > div {
+  border-radius: 0;
+  height: 100%;
+}
+
+.Footer-copyright {
+  a {
+    color: theme(colors.brand-secondary);
+  }
+}
+
+.DirectorySearchBar-container {
+  &::after {
+    content: "";
+    background-image: url("src/assets/images/search.svg");
+    display: inline-block;
+    position: absolute;
+    right: 15px;
+    top: 13px;
+    height: 25px;
+    width: 25px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    filter: brightness(0) saturate(100%);
+  }
+}
+
+.Footer {
+  &:nth-child(2) {
+    margin-top: 800px;
+  }
+}
+
+.no-scroll {
+  overflow: hidden;
+}

@@ -1,0 +1,1 @@
+import{j as o}from"./env-aVgYgaUP.js";import{M as s}from"./GeolocateButton-AmeVg4g0.js";import{D as t}from"./directory-F4ZsIkcY.js";const e=r=>o.jsx(s,{data:r,children:o.jsx(t,{data:r})});export{e as C};

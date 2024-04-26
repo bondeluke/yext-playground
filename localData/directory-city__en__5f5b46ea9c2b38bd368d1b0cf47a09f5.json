@@ -1,0 +1,1231 @@
+{
+	"__": {
+		"entityPageSet": {},
+		"name": "city"
+	},
+	"_site": {
+		"c_bannerText": "Connect with our Virtual Advice Team. We have a team of professionals just a phone call away.",
+		"c_bannerURL": "https://www.thrivent.com/about-us/working-with-thrivent/thrivent-financial-guidance-team.html",
+		"c_cFPCopyRightText": "Certified Financial Planner Board of Standards, Inc. (CFP Board) owns the CFP® certification mark, the CERTIFIED FINANCIAL PLANNER™ certification mark, and the CFP® certification mark (with plaque design) logo in the United States, which it authorizes use of by individuals who successfully complete CFP Board's initial and ongoing certification requirements.",
+		"c_cFPLogic": true,
+		"c_companyPhoneNumber": {
+			"label": "T: 800-847-4836",
+			"link": "+18008474836",
+			"linkType": "PHONE"
+		},
+		"c_copyrightMessage": "Certified Financial Planner Board of Standards, Inc. (CFP Board) owns the CFP® certification mark, the CERTIFIED FINANCIAL PLANNER™ certification mark, and the CFP® certification mark (with plaque design) logo in the United States, which it authorizes use of by individuals who successfully complete CFP Board's initial and ongoing certification requirements.",
+		"c_copyrightText": {
+			"json": {
+				"root": {
+					"children": [
+						{
+							"children": [
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": "© 2023 Thrivent. All rights reserved. ",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"children": [
+										{
+											"detail": 0,
+											"format": 0,
+											"mode": "normal",
+											"style": "",
+											"text": "Terms of Use.",
+											"type": "text",
+											"version": 1
+										},
+										{
+											"type": "linebreak",
+											"version": 1
+										},
+										{
+											"type": "linebreak",
+											"version": 1
+										}
+									],
+									"direction": "ltr",
+									"format": "",
+									"indent": 0,
+									"rel": null,
+									"target": null,
+									"type": "link",
+									"url": "https://www.thrivent.com/privacy-and-security/terms-of-use.html",
+									"version": 1
+								}
+							],
+							"direction": "ltr",
+							"format": "",
+							"indent": 0,
+							"type": "paragraph",
+							"version": 1
+						},
+						{
+							"children": [
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": "Thrivent is the marketing name for Thrivent Financial for Lutherans. Insurance products issued by Thrivent. Not available in all states. Securities and investment advisory services offered through Thrivent Investment Management Inc., a registered investment adviser, member ",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"children": [
+										{
+											"detail": 0,
+											"format": 0,
+											"mode": "normal",
+											"style": "",
+											"text": "FINRA",
+											"type": "text",
+											"version": 1
+										}
+									],
+									"direction": "ltr",
+									"format": "",
+									"indent": 0,
+									"rel": null,
+									"target": null,
+									"type": "link",
+									"url": "https://www.finra.org/#/",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": " and ",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"children": [
+										{
+											"detail": 0,
+											"format": 0,
+											"mode": "normal",
+											"style": "",
+											"text": "SIPC",
+											"type": "text",
+											"version": 1
+										}
+									],
+									"direction": "ltr",
+									"format": "",
+									"indent": 0,
+									"rel": null,
+									"target": null,
+									"type": "link",
+									"url": "https://www.sipc.org/",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": ", and a subsidiary of Thrivent. Licensed agent/producer of Thrivent. Registered representative of Thrivent Investment Management, Inc. ",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"children": [
+										{
+											"detail": 0,
+											"format": 0,
+											"mode": "normal",
+											"style": "",
+											"text": "Thrivent.com/disclosures",
+											"type": "text",
+											"version": 1
+										}
+									],
+									"direction": "ltr",
+									"format": "",
+									"indent": 0,
+									"rel": null,
+									"target": null,
+									"type": "link",
+									"url": "https://www.thrivent.com/privacy-and-security/disclosures.html",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": ".",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"type": "linebreak",
+									"version": 1
+								},
+								{
+									"type": "linebreak",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": "Insurance products, securities and investment advisory services are provided by appropriately appointed and licensed financial advisors and professionals. Only individuals who are financial advisors are credentialed to provide investment advisory services. Visit ",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"children": [
+										{
+											"detail": 0,
+											"format": 0,
+											"mode": "normal",
+											"style": "",
+											"text": "Thrivent.com",
+											"type": "text",
+											"version": 1
+										}
+									],
+									"direction": "ltr",
+									"format": "",
+									"indent": 0,
+									"rel": null,
+									"target": null,
+									"type": "link",
+									"url": "http://thrivent.com/",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": " or ",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"children": [
+										{
+											"detail": 0,
+											"format": 0,
+											"mode": "normal",
+											"style": "",
+											"text": "FINRA’s Broker Check",
+											"type": "text",
+											"version": 1
+										}
+									],
+									"direction": "ltr",
+									"format": "",
+									"indent": 0,
+									"rel": null,
+									"target": null,
+									"type": "link",
+									"url": "https://brokercheck.finra.org/",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": " for more information about our financial advisors.",
+									"type": "text",
+									"version": 1
+								},
+								{
+									"type": "linebreak",
+									"version": 1
+								},
+								{
+									"type": "linebreak",
+									"version": 1
+								},
+								{
+									"detail": 0,
+									"format": 0,
+									"mode": "normal",
+									"style": "",
+									"text": "Thrivent provides advice and guidance through its Financial Planning Framework that generally includes a review and analysis of a client’s financial situation. A client may choose to further their planning engagement with Thrivent through its Dedicated Planning Services (an investment advisory service) that results in written recommendations for a fee.",
+									"type": "text",
+									"version": 1
+								}
+							],
+							"direction": "ltr",
+							"format": "",
+							"indent": 0,
+							"type": "paragraph",
+							"version": 1
+						}
+					],
+					"direction": "ltr",
+					"format": "",
+					"indent": 0,
+					"type": "root",
+					"version": 1
+				}
+			}
+		},
+		"c_defaultResultCard": {
+			"cTA1": {
+				"label": "About Us",
+				"link": "https://www.thrivent.com/advice/virtual-advice-team",
+				"linkType": "URL"
+			},
+			"cTA2": {
+				"label": "Get In Touch",
+				"link": "https://www.thrivent.com/offers/online-appointment",
+				"linkType": "URL"
+			},
+			"name": "Virtual Advice Team",
+			"phone": {
+				"label": "(888) 834-7434",
+				"link": "+18888347434",
+				"linkType": "PHONE"
+			},
+			"photo": {
+				"alternateText": "thrivent profile photo",
+				"height": 372,
+				"url": "https://a.mktgcdn.com/p/owIRiQpJtKcODTweyK5gB2lUejrhjF32f9hcnyHpnCk/290x372.png",
+				"width": 290
+			},
+			"title": "Team Practice"
+		},
+		"c_facebook": "https://www.facebook.com/thrivent/",
+		"c_footerColumns": [
+			{
+				"footerLink": [
+					{
+						"label": "About us",
+						"link": "https://www.thrivent.com/about-us/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Insights \u0026 guidance",
+						"link": "https://www.thrivent.com/insights/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Log in",
+						"link": "https://myservice.thrivent.com/portal/mythrivent",
+						"linkType": "URL"
+					},
+					{
+						"label": "Find an advisor",
+						"link": "https://local.thrivent.com/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Careers",
+						"link": "https://www.thrivent.com/careers",
+						"linkType": "URL"
+					},
+					{
+						"label": "Contact Us",
+						"link": "https://www.thrivent.com/about-us/support",
+						"linkType": "URL"
+					},
+					{
+						"label": "Claims",
+						"link": "https://www.thrivent.com/claims/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Thrivent merchandise",
+						"link": "https://www.mybrandmall.com/thrivent/",
+						"linkType": "URL"
+					}
+				],
+				"title": "Navigation"
+			},
+			{
+				"footerLink": [
+					{
+						"label": "Newsroom",
+						"link": "https://www.thrivent.com/newsroom/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Financial information",
+						"link": "https://www.thrivent.com/governance#financial-info",
+						"linkType": "URL"
+					},
+					{
+						"label": "Thrivent Magazine",
+						"link": "https://www.thrivent.com/insights/magazine/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Mobile app",
+						"link": "https://www.thrivent.com/mobile-app",
+						"linkType": "URL"
+					}
+				],
+				"title": "Quick links"
+			},
+			{
+				"footerLink": [
+					{
+						"label": "Forms",
+						"link": "https://www.thrivent.com/forms/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Governance",
+						"link": "https://www.thrivent.com/governance",
+						"linkType": "URL"
+					},
+					{
+						"label": "PRIVACY \u0026 SECURITY",
+						"link": "https://www.thrivent.com/privacy-and-security/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Tax resource center",
+						"link": "https://www.thrivent.com/tax-resource-center/",
+						"linkType": "URL"
+					},
+					{
+						"label": "Terms of use",
+						"link": "https://www.thrivent.com/privacy-and-security/terms-of-use",
+						"linkType": "URL"
+					}
+				],
+				"title": "Legal"
+			},
+			{
+				"footerText": "4321 N. Ballard Rd.\nAppleton, WI\n54919-0001 USA",
+				"title": "Operations Center"
+			},
+			{
+				"footerText": "600 Portland Avenue S.,\nSuite 100\nMinneapolis, MN\n55415-4402 USA",
+				"title": "Corporate Center"
+			}
+		],
+		"c_footerPhoto": {
+			"clickthroughUrl": "https://brokercheck.finra.org/",
+			"description": "Check the background of our professionals on FINRA’s BrokerCheck.",
+			"image": {
+				"alternateText": "BrokerCheck Logo",
+				"height": 124,
+				"url": "https://a.mktgcdn.com/p/XgFBGdcl05ygY2UgnvTB8XKAV3dRWFGRUM7i20_nWXY/418x124.png",
+				"width": 418
+			}
+		},
+		"c_header": {
+			"links": [
+				{
+					"label": "Log In",
+					"link": "https://servicing.apps.thrivent.com/",
+					"linkType": "URL"
+				}
+			],
+			"logo": {
+				"alternateText": "Thrivent Logo",
+				"height": 1338,
+				"url": "https://a.mktgcdn.com/p/HmPg6JAKMRRCOK7cj5pdLaLVdRxmnJz40c4Vm05zRVE/3000x1338.png",
+				"width": 3000
+			}
+		},
+		"c_instagram": "https://www.instagram.com/thrivent/",
+		"c_linkedIn": "https://www.linkedin.com/company/6233",
+		"c_placeholderPhoto": {
+			"height": 372,
+			"url": "https://a.mktgcdn.com/p/owIRiQpJtKcODTweyK5gB2lUejrhjF32f9hcnyHpnCk/290x372.png",
+			"width": 290
+		},
+		"c_searchExperienceAPIKey": "4b2e8888389009aeb3af17a231cb043b",
+		"c_searchPage": [
+			{}
+		],
+		"c_twitter": "https://www.twitter.com/thrivent/",
+		"id": "site-entity",
+		"logo": {
+			"clickthroughUrl": "https://www.thrivent.com/",
+			"image": {
+				"alternateText": "Thrivent Logo",
+				"height": 3000,
+				"url": "https://a.mktgcdn.com/p/WZ63RQBuNZishiZJrqMOdS8jG3eYIT7f_Js-jLMgxR0/3000x3000.png",
+				"width": 3000
+			}
+		},
+		"meta": {
+			"entityType": {
+				"id": "ce_site",
+				"uid": 142256
+			},
+			"locale": "en"
+		},
+		"name": "Site Entity",
+		"uid": 1029196019
+	},
+	"businessId": 3151815,
+	"c_addressRegionDisplayName": "Missouri",
+	"c_breadcrumb": "Saint Louis",
+	"c_directoryHeroDescription": "9 Thrivent Financial Professionals in Saint Louis, Missouri",
+	"c_meta": {
+		"description": "Browse all Thrivent Advisors in Saint Louis, Missouri to find retirement and investment planning options for Christians",
+		"title": "Thrivent Advisors in Saint Louis, Missouri | Retirement and investment plannning for Christians"
+	},
+	"dm_baseEntityCount": "9",
+	"dm_directoryChildren": [
+		{
+			"address": {
+				"city": "Saint Louis",
+				"countryCode": "US",
+				"line1": "12300 Old Tesson Rd",
+				"line2": "Ste 100e",
+				"postalCode": "63128",
+				"region": "MO"
+			},
+			"c_baseURL": "https://connect.thrivent.com/keith-poppitz",
+			"c_cTALocator1": "About Me",
+			"c_cTALocator2": "Get in Touch",
+			"c_contactURL": "https://connect.thrivent.com/keith-poppitz#contact-form",
+			"c_designations": [
+				"CLTC®",
+				"FIC"
+			],
+			"c_fPName": "Keith Poppitz",
+			"c_title": "Associate",
+			"c_virtualAgent": false,
+			"hours": {
+				"friday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"monday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"saturday": {
+					"isClosed": true
+				},
+				"sunday": {
+					"isClosed": true
+				},
+				"thursday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"tuesday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"wednesday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				}
+			},
+			"mainPhone": "+13148436823",
+			"name": "Keith Poppitz - Thrivent",
+			"photoGallery": [
+				{
+					"image": {
+						"height": 1500,
+						"url": "http://a.mktgcdn.com/p/yU-YmQU-a4lGapDd6d4xk4bu80KFU_PiqrRjO_li2nM/1200x1500.jpg",
+						"width": 1200
+					}
+				}
+			],
+			"slug": "directory/mo/saint-louis/12300-old-tesson-rd"
+		},
+		{
+			"address": {
+				"city": "Saint Louis",
+				"countryCode": "US",
+				"line1": "1515 Des Peres",
+				"line2": "Suite 100",
+				"postalCode": "63131",
+				"region": "MO"
+			},
+			"c_baseURL": "https://connect.thrivent.com/brittani-joyce",
+			"c_cTALocator1": "About Me",
+			"c_cTALocator2": "Get in Touch",
+			"c_contactURL": "https://connect.thrivent.com/brittani-miller#contact-form",
+			"c_fPName": "Brittani Miller",
+			"c_title": "Financial Advisor",
+			"c_virtualAgent": false,
+			"hours": {
+				"friday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"monday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"saturday": {
+					"isClosed": true
+				},
+				"sunday": {
+					"isClosed": true
+				},
+				"thursday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"tuesday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"wednesday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				}
+			},
+			"mainPhone": "+13147834251",
+			"name": "Brittani Dannegger-Joyce - Thrivent",
+			"photoGallery": [
+				{
+					"image": {
+						"height": 1500,
+						"url": "http://a.mktgcdn.com/p/TaQNq-WXlyAHl0EjEUxmOkjLgLyLx9Bl-EF2opfpyf0/1200x1500.jpg",
+						"width": 1200
+					}
+				}
+			],
+			"slug": "directory/mo/saint-louis/1515-des-peres"
+		},
+		{
+			"address": {
+				"city": "Saint Louis",
+				"countryCode": "US",
+				"line1": "12300 Old Tesson Rd",
+				"line2": "Ste 100e",
+				"postalCode": "63128",
+				"region": "MO"
+			},
+			"c_baseURL": "https://connect.thrivent.com/paul-himmelsbach",
+			"c_cTALocator1": "About Me",
+			"c_cTALocator2": "Get in Touch",
+			"c_contactURL": "https://connect.thrivent.com/paul-himmelsbach#contact-form",
+			"c_designations": [
+				"CFP®",
+				"ChFC®",
+				"FIC",
+				"LUTCF®",
+				"RICP®"
+			],
+			"c_fPName": "Paul Himmelsbach",
+			"c_title": "Financial Consultant",
+			"c_virtualAgent": false,
+			"hours": {
+				"friday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"monday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"saturday": {
+					"isClosed": true
+				},
+				"sunday": {
+					"isClosed": true
+				},
+				"thursday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"tuesday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"wednesday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				}
+			},
+			"mainPhone": "+13148436540",
+			"name": "Paul Himmelsbach - Thrivent",
+			"photoGallery": [
+				{
+					"image": {
+						"height": 1500,
+						"url": "http://a.mktgcdn.com/p/kXzFiunRyx5Izgd_ek8htt-i30gXpWJPDThyrUlHgEA/1200x1500.jpg",
+						"width": 1200
+					}
+				}
+			],
+			"slug": "directory/mo/saint-louis/12300-old-tesson-rd"
+		},
+		{
+			"address": {
+				"city": "Saint Louis",
+				"countryCode": "US",
+				"line1": "1515 Des Peres Rd",
+				"postalCode": "63131",
+				"region": "MO"
+			},
+			"c_baseURL": "https://connect.thrivent.com/christian-rowe",
+			"c_cTALocator1": "About Me",
+			"c_cTALocator2": "Get in Touch",
+			"c_contactURL": "https://connect.thrivent.com/christian-rowe#contact-form",
+			"c_fPName": "Christian Rowe",
+			"c_title": "Financial Advisor",
+			"c_virtualAgent": false,
+			"hours": {
+				"friday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"monday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"saturday": {
+					"isClosed": true
+				},
+				"sunday": {
+					"isClosed": true
+				},
+				"thursday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"tuesday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"wednesday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				}
+			},
+			"mainPhone": "+17069786488",
+			"name": "Christian Rowe - Thrivent",
+			"photoGallery": [
+				{
+					"image": {
+						"height": 1500,
+						"url": "http://a.mktgcdn.com/p/XNj-d9WuXfQQJSjOwGMhTeT9RkmGZJDYxWzxNnLGl28/1200x1500.jpg",
+						"width": 1200
+					}
+				}
+			],
+			"slug": "directory/mo/saint-louis/1515-des-peres-rd"
+		},
+		{
+			"address": {
+				"city": "Saint Louis",
+				"countryCode": "US",
+				"line1": "1515 Des Peres Road",
+				"line2": "Suite 100",
+				"postalCode": "63131",
+				"region": "MO"
+			},
+			"c_baseURL": "https://connect.thrivent.com/adam-hautly",
+			"c_cTALocator1": "About Me",
+			"c_cTALocator2": "Get in Touch",
+			"c_contactURL": "https://connect.thrivent.com/adam-hautly#contact-form",
+			"c_designations": [
+				"CRPC®",
+				"FIC"
+			],
+			"c_fPName": "Adam Hautly",
+			"c_title": "Financial Consultant",
+			"c_virtualAgent": false,
+			"hours": {
+				"friday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"monday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"saturday": {
+					"isClosed": true
+				},
+				"sunday": {
+					"isClosed": true
+				},
+				"thursday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"tuesday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"wednesday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				}
+			},
+			"mainPhone": "+13142381555",
+			"name": "Adam Hautly - Thrivent",
+			"photoGallery": [
+				{
+					"image": {
+						"height": 1500,
+						"url": "http://a.mktgcdn.com/p/QJkEjqD9WkeFGHYiYTJJgjicWAn6rHMU148CC_VlW5Y/1200x1500.jpg",
+						"width": 1200
+					}
+				}
+			],
+			"slug": "directory/mo/saint-louis/1515-des-peres-road"
+		},
+		{
+			"address": {
+				"city": "Saint Louis",
+				"countryCode": "US",
+				"line1": "1515 Des Peres Road",
+				"line2": "Ste 100",
+				"postalCode": "63131",
+				"region": "MO"
+			},
+			"c_baseURL": "https://connect.thrivent.com/kari-lovera",
+			"c_cTALocator1": "About Me",
+			"c_cTALocator2": "Get in Touch",
+			"c_contactURL": "https://connect.thrivent.com/kari-lovera#contact-form",
+			"c_designations": [
+				"CLTC®",
+				"ChFC®",
+				"FIC",
+				"LUTCF®"
+			],
+			"c_fPName": "Kari Lovera",
+			"c_title": "Associate Financial Advisor",
+			"c_virtualAgent": false,
+			"hours": {
+				"friday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"monday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"saturday": {
+					"isClosed": true
+				},
+				"sunday": {
+					"isClosed": true
+				},
+				"thursday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"tuesday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"wednesday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				}
+			},
+			"mainPhone": "+16362255206",
+			"name": "Kari Lovera - Thrivent",
+			"photoGallery": [
+				{
+					"image": {
+						"height": 1500,
+						"url": "http://a.mktgcdn.com/p/eWNrFoX9jcp_uxb6EyIU_PcWGLjk_9VGtxv7BL-FJyo/1200x1500.jpg",
+						"width": 1200
+					}
+				}
+			],
+			"slug": "directory/mo/saint-louis/1515-des-peres-road"
+		},
+		{
+			"address": {
+				"city": "Saint Louis",
+				"countryCode": "US",
+				"line1": "220 W Argonne Drive",
+				"line2": "Suite P",
+				"postalCode": "63122",
+				"region": "MO"
+			},
+			"c_baseURL": "https://connect.thrivent.com/adam-hautly",
+			"c_cTALocator1": "About Me",
+			"c_cTALocator2": "Get in Touch",
+			"c_contactURL": "https://connect.thrivent.com/adam-hautly#contact-form",
+			"c_designations": [
+				"CRPC®",
+				"FIC"
+			],
+			"c_fPName": "Adam Hautly",
+			"c_title": "Financial Consultant",
+			"c_virtualAgent": false,
+			"hours": {
+				"friday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"monday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"saturday": {
+					"isClosed": true
+				},
+				"sunday": {
+					"isClosed": true
+				},
+				"thursday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"tuesday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"wednesday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				}
+			},
+			"mainPhone": "+13142381555",
+			"name": "Adam Hautly - Thrivent",
+			"photoGallery": [
+				{
+					"image": {
+						"height": 1500,
+						"url": "http://a.mktgcdn.com/p/QJkEjqD9WkeFGHYiYTJJgjicWAn6rHMU148CC_VlW5Y/1200x1500.jpg",
+						"width": 1200
+					}
+				}
+			],
+			"slug": "directory/mo/saint-louis/220-w-argonne-drive"
+		},
+		{
+			"address": {
+				"city": "Saint Louis",
+				"countryCode": "US",
+				"line1": "12300 Old Tesson Rd",
+				"line2": "Suite 100e",
+				"postalCode": "63128",
+				"region": "MO"
+			},
+			"c_baseURL": "https://connect.thrivent.com/brett-hartmann",
+			"c_cTALocator1": "About Me",
+			"c_cTALocator2": "Get in Touch",
+			"c_contactURL": "https://connect.thrivent.com/brett-hartmann#contact-form",
+			"c_fPName": "Brett Hartmann",
+			"c_title": "Financial Advisor",
+			"c_virtualAgent": false,
+			"hours": {
+				"friday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"monday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"saturday": {
+					"isClosed": true
+				},
+				"sunday": {
+					"isClosed": true
+				},
+				"thursday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"tuesday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"wednesday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				}
+			},
+			"mainPhone": "+13144630405",
+			"name": "Brett Hartmann - Thrivent",
+			"photoGallery": [
+				{
+					"image": {
+						"height": 1500,
+						"url": "http://a.mktgcdn.com/p/ela30Sy-QqRw3v2isnb_rkIEvk8csQ1KuQOCrvFEJjI/1200x1500.jpg",
+						"width": 1200
+					}
+				}
+			],
+			"slug": "directory/mo/saint-louis/12300-old-tesson-rd"
+		},
+		{
+			"address": {
+				"city": "Saint Louis",
+				"countryCode": "US",
+				"line1": "3008 Sutton Blvd",
+				"postalCode": "63143",
+				"region": "MO"
+			},
+			"c_baseURL": "https://connect.thrivent.com/andrew-bolin",
+			"c_cTALocator1": "About Me",
+			"c_cTALocator2": "Get in Touch",
+			"c_contactURL": "https://connect.thrivent.com/andrew-bolin#contact-form",
+			"c_designations": [
+				"CFP®",
+				"CKA®"
+			],
+			"c_fPName": "Andrew Bolin",
+			"c_title": "Financial Consultant",
+			"c_virtualAgent": false,
+			"hours": {
+				"friday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"monday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"saturday": {
+					"isClosed": true
+				},
+				"sunday": {
+					"isClosed": true
+				},
+				"thursday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"tuesday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				},
+				"wednesday": {
+					"openIntervals": [
+						{
+							"end": "17:00",
+							"start": "09:00"
+						}
+					]
+				}
+			},
+			"mainPhone": "+13149612882",
+			"name": "Andrew Bolin - Thrivent",
+			"photoGallery": [
+				{
+					"image": {
+						"height": 1200,
+						"url": "http://a.mktgcdn.com/p/u5z1anIn0z1bGr-MCwusBaBIN1vfgJ87M_qAzThaim0/1500x1200.jpg",
+						"width": 1500
+					}
+				}
+			],
+			"slug": "directory/mo/saint-louis/3008-sutton-blvd"
+		}
+	],
+	"dm_directoryParents": [
+		{
+			"c_breadcrumb": "All Advisors",
+			"name": "Directory",
+			"slug": "directory"
+		},
+		{
+			"c_breadcrumb": "Missouri",
+			"name": "MO",
+			"slug": "directory/mo"
+		}
+	],
+	"id": "defaultDirectory_mo_saint_louis",
+	"key": "0:city:knowledgeGraph:1029200165:en",
+	"locale": "en",
+	"meta": {
+		"entityType": {
+			"id": "ce_city",
+			"uid": 142252
+		},
+		"locale": "en"
+	},
+	"name": "Saint Louis",
+	"siteDomain": "",
+	"siteId": 0,
+	"siteInternalHostName": "",
+	"slug": "directory/mo/saint-louis",
+	"uid": 1029200165
+}
